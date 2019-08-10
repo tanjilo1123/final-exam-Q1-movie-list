@@ -1,0 +1,15 @@
+.row.container {
+  margin: 0 auto;
+  max-width: 1700px;
+}
+
+#list-panel li{
+  border: 1px solid #F8F8F8;
+}
+
+.genres {
+  margin-right: 8px;
+  padding: 5px;
+  background-color: #fff;
+  display: inline-block;
+}
